@@ -249,7 +249,7 @@ video {
     width: 3.3rem;
     padding: .2rem .7rem;
     background-color: var(--blue);
-    color: #fff;
+    color: #702f2f;
     transition: width .2s ease-in-out;
     border-radius: .5rem;
 }
