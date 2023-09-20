@@ -15,7 +15,7 @@ turnPageBtn.forEach((el, index) => {
         videos.forEach((el_1) => {
             el_1.pause()
         })
-        
+
         let pageTurn = document.getElementById(pageTurnId)
 
         if (pageTurn.classList.contains('turn')) {
